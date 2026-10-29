@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Character+Creator-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-3D+Character-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 MakeHuman Free Installer** — MakeHuman is a free, open-source 3D character creation application for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
+**💻 MakeHuman Free Installer** — MakeHuman is a free, open-source 3D human figure creator that generates anatomically correct human models using morphing sliders. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About MakeHuman
 
-MakeHuman is a free, open-source 3D character creation application for Windows, macOS, and Linux. Use sliders to design anatomically accurate human characters by adjusting age, gender, body shape, ethnicity, and hundreds of other parameters. Export characters with rigging, clothing, and hair to Blender, Maya, or game engines. MakeHuman is widely used for creating character bases and crowd simulation.
+MakeHuman is a free, open-source 3D human figure creator that generates anatomically correct human models using morphing sliders. Artists use it to quickly create base meshes for characters that are then rigged and animated in Blender or other 3D applications.
 
 ---
 
 ## ❌ Problem: MakeHuman is hard to access
 
-- **Limited Stylization** — Optimized for realistic human proportions; cartoon styles require significant modification
-- **Texture Quality** — Default textures adequate but may need enhancement for close-up rendering
-- **Clothing System** — Clothing options limited compared to dedicated character creation tools
-- **Development Pace** — Updates less frequent than commercial character generators
+- **Mesh Quality** — Generated meshes often require significant cleanup for production use
+- **Interface Style** — UI design feels dated compared to commercial character tools
+- **Limited Customization** — Morphing system covers many variations but limits extreme character designs
+- **Rigging Dependency** — Generates mesh only; rigging and animation requires external 3D software
 
 ---
 
@@ -121,7 +121,7 @@ MakeHuman is a free, open-source 3D character creation application for Windows, 
 
 ---
 
-**MakeHuman Free Installer** — MakeHuman is a free, open-source 3D character creation application for Windows, macOS, and Linux. Install without internet connection today!
+**MakeHuman Free Installer** — MakeHuman is a free, open-source 3D human figure creator that generates anatomically correct human models using morphing sliders. Install without internet connection today!
 
 <div align="center">
 
